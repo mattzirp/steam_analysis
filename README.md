@@ -34,7 +34,7 @@ Users have mostly played 100s or 1000s of hours, when excluding those who haven'
 
 Reviews skew positive on Steam, but users are not typically leaving reviews on many games
 
-![Distribution of Review Sentiment](/figures/review_dist)
+![Distribution of Review Sentiment](/figures/review_dist.png)
 
 Number of releases on Steam and in general have increased steadily with time
 
